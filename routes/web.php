@@ -22,3 +22,5 @@ Route::get('/galeria', 'CategoriasController@galeria');
 Route::get('/precios', 'CategoriasController@precios');
 Route::get('/servicios', 'CategoriasController@servicios');
 Route::get('/tips', 'CategoriasController@tips');
+Route::any('/form-message', 'CategoriasController@formulario');
+Route::any('/email-response-contact', 'CategoriasController@email_response_contact');

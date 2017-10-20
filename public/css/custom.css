@@ -571,7 +571,7 @@ body.slide-active {
 #page-content {
   position: relative;
   left: 0;
-  top: 35px;
+  top: 0;
 }
 
 #page-content.slide-active {
@@ -586,7 +586,7 @@ body.slide-active {
   nav#slide-nav .container {
     margin: 0!important;
     padding: 0!important;
-    height: 100%;
+    height: 0;
   }
   #slide-nav .navbar-header {
     margin: 0 auto;
@@ -633,6 +633,12 @@ body.slide-active {
   }
   #page-content {
     margin-top: 130px;
+  }
+}
+
+@media(min-width: 425px) {
+  #page-content {
+    top: 35px;
   }
 }
 

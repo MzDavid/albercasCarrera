@@ -9,7 +9,6 @@
 				<div class="row">
 					<div class="col-sm-5 col-md-3">
 						<div class="address">
-							<div><img src="images/logo.svg" class="img-responsive" alt="" /></div>
 							<div class="divider-sm"></div>
 							<div class="address-block">
 								<i class="icon icon-location"></i>
@@ -29,6 +28,7 @@
 						<div class="col-sm-1 visible-lg"></div>
 						<div class="col-sm-7 col-md-8">
 							<form id="contactform" class="contact-form" name="contactform" method="post" novalidate>
+								<input type="hidden" name="_token" value="{{{ csrf_token() }}}" />
 								<div id="success">
 									<p>¡Tu mensaje se envio con exito!</p>
 								</div>
@@ -40,19 +40,19 @@
 										<div class="col-md-6">
 											<div class="input-wrapper">
 												<label>Nombre <span class="required">*</span></label>
-												<input type="text" class="input-custom input-full" name="name" placeholder="Tu nombre">
+												<input type="text" class="input-custom input-full" name="name" placeholder="Ingresa tu nombre" required>
 											</div>
 										</div>
 										<div class="col-md-6">
 											<div class="input-wrapper">
 												<label>Teléfono</label>
-												<input type="text" class="input-custom input-full" name="phone" placeholder="(555) 555-5555">
+												<input type="text" class="input-custom input-full" name="phone" placeholder="(555) 555-5555" required>
 											</div>
 										</div>
 									</div>
 									<div class="input-wrapper">
 										<label>Email</label>
-										<input type="text" class="input-custom input-full" name="email" placeholder="xxxx@xxxx.xxx">
+										<input type="text" class="input-custom input-full" name="email" placeholder="xxxx@xxxx.xxx" required>
 									</div>
 								</div>
 								<div>
@@ -155,6 +155,6 @@
 						position: new google.maps.LatLng(17.979121, -92.921061),
 						map: map,
 						icon: image
-					});
+					});  
 				}
 			</script>

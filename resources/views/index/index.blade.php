@@ -47,7 +47,7 @@
 								<div class="icon icon-swimming-pool"></div>
 							</div>
 							<div class="service-title">
-								<h4>SERVICIOS<br>RESIDENCIALES</h4> </div>
+								<h4>RESIDENCIALES Y<br>COMERCIALES</h4> </div>
 								<div class="service-text">Una alberca puede ser el lugar perfecto para ti y tu familia </div>
 							</div>
 						</div>
@@ -55,10 +55,10 @@
 							<div class="service-item">
 								<div class="icon-circle">
 									<div class="icon-hover"></div>
-									<div class="icon icon-waterpolo"></div>
+									<div class="icon icon-wrench"></div>
 								</div>
 								<div class="service-title">
-									<h4>SERVICIOS <br>COMERCIALES</h4> </div>
+									<h4>MANTENIMIENTO <br>HIDRÁULICO</h4> </div>
 									<div class="service-text"> Podemos proporcionar todo tipo de servicios a  su alberca, spa, y la reparación de la fuente, la renovación de acuerdo a sus necesidades. </div>
 								</div>
 							</div>
@@ -208,22 +208,22 @@
 <!-- Why Choose Block -->
 <div class="block bottom-sm-margin">
 	<div class="container">
-		<h2 class="decor color text-center">Why choose us?</h2>
+		<h2 class="decor color text-center">¿Porqué Elegirnos?</h2>
 		<div class="row text-icon-carousel step-animation-container">
 			<div class="col-sm-4">
 				<div class="text-icon step-animation" data-animation="fadeInUp" data-animation-delay="0s">
 					<div class="text-icon-icon"><span><i class="icon icon-medal"></i><span class="icon-hover"></span></span>
 					</div>
-					<h5 class="text-icon-title">Worry free guarantee</h5>
-					<div class="text-icon-text">Forget about fluctuating water chemistry. In fact, forget about buying and lugging chemicals, troubleshooting problems, remembering to latch the gate, whether its safe to swim, or if your filter’s making a funny noise</div>
+					<h5 class="text-icon-title">Garantía de satisfacción</h5>
+					<div class="text-icon-text">Olvídese de comprar, cargar y almacenar productos químicos, resolver problemas, recordar cerrar la puerta, si es seguro nadar o si su filtro está haciendo un ruido divertido</div>
 				</div>
 			</div>
 			<div class="col-sm-4">
 				<div class="text-icon step-animation" data-animation="fadeInUp" data-animation-delay="0.2s">
 					<div class="text-icon-icon"><span><i class="icon icon-handshake"></i><span class="icon-hover"></span></span>
 					</div>
-					<h5 class="text-icon-title">NO CONTRACTS. EVER</h5>
-					<div class="text-icon-text">Most service contracts simply limit your freedom as a customer. By design they lock you into one-sided agreements that make it easier for companies to pay less attention to you. </div>
+					<h5 class="text-icon-title">Sin contratos forsozos</h5>
+					<div class="text-icon-text">La mayoría de los contratos de servicio simplemente limitan su libertad como cliente. Por diseño, lo vinculan a acuerdos unilaterales que facilitan que las empresas le presten menos atención. </div>
 				</div>
 			</div>
 			<div class="col-sm-4">
@@ -231,7 +231,7 @@
 					<div class="text-icon-icon"><span><i class="icon icon-wrench"></i><span class="icon-hover"></span></span>
 					</div>
 					<h5 class="text-icon-title">PRIORITY REPAIR ADVANTAGE</h5>
-					<div class="text-icon-text">When your pool filter breaks down in the middle of a heat wave, or your heater goes on the fritz in the middle of winter, it makes all the difference in the world to know you’ll get help quickly. </div>
+					<div class="text-icon-text">Cuando el filtro de tu piscina se descompone en medio de una ola de calor, o tu calentador se apaga en medio del invierno, hace una gran diferencia saber que recibirás ayuda rápidamente. </div>
 				</div>
 			</div>
 			<div class="clearfix hidden-xs"></div>
@@ -239,15 +239,15 @@
 				<div class="text-icon step-animation" data-animation="fadeInUp" data-animation-delay="0.6s">
 					<div class="text-icon-icon"><span><i class="icon icon-test-tube"></i><span class="icon-hover"></span></span>
 					</div>
-					<h5 class="text-icon-title">SALT chlorine GENERATOR</h5>
-					<div class="text-icon-text">We don’t believe you or your family should swim in a pool without the benefits of a saltwater chlorine generator. They eliminate harmful chloramines and additives found in chlorination chemicals, and they noticeably improve water quality with a relative softening effect on hair and skin.</div>
+					<h5 class="text-icon-title">Balance Químico</h5>
+					<div class="text-icon-text">Elimina las cloraminas y los aditivos nocivos que se encuentran en los productos químicos de cloración, y mejoran notablemente la calidad del agua con un efecto suavizante relativo sobre el cabello y la piel.</div>
 				</div>
 			</div>
 			<div class="col-sm-4">
 				<div class="text-icon step-animation" data-animation="fadeInUp" data-animation-delay="0.8s">
 					<div class="text-icon-icon"><span><i class="icon icon-sweep"></i><span class="icon-hover"></span></span>
 					</div>
-					<h5 class="text-icon-title">TOTAL CLEAN PROMISE</h5>
+					<h5 class="text-icon-title">Limpieza integral</h5>
 					<div class="text-icon-text">“Spot Cleaning” is a dirty little practice some pool service companies use to reduce their prices. It involves picking and choosing what to clean based upon what you see. It ignores basic microbiology and flies in the face of proper pool care.</div>
 				</div>
 			</div>
@@ -255,8 +255,8 @@
 				<div class="text-icon step-animation" data-animation="fadeInUp" data-animation-delay="1s">
 					<div class="text-icon-icon"><span><i class="icon icon-clock"></i><span class="icon-hover"></span></span>
 					</div>
-					<h5 class="text-icon-title">SHOW UP ON TIME</h5>
-					<div class="text-icon-text">You can always trust we’ll be there, on time even if you’re at work. We use GPS enabled trucks, and each scheduled service visit is logged online with our data center, complete with the details when we’re done.</div>
+					<h5 class="text-icon-title">Siempre a tiempo</h5>
+					<div class="text-icon-text">Puedes confiar en que estaremos allí, a tiempo, incluso si estás en el trabajo, estamos comprometidos a entregar un servicio de calidad.</div>
 				</div>
 			</div>
 		</div>
